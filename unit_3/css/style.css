@@ -1,0 +1,34 @@
+body {
+	text-align: center;
+	background: url("https://pbs.twimg.com/media/EP-1d-AXsAIs9Zw?format=jpg&name=large");
+	background-size: cover;
+	color: #fff;
+	font-family: Helvetica
+	}
+h1 {
+	font-size: 55px;
+	font-style: italic;
+	font-weight: bold;
+}
+h2{
+	font-size: 22px;
+}
+hr {
+	width: 200px;
+}
+
+a {
+	color: rgb(173,91,217);
+	text-decoration: none;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bold;
+}
+ul {
+	font-style: italic;
+}
+
+#second {
+	font-weight: bold;
+}
