@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Merriweather&display=swap');
+header {
+    background-color: #FFED74
+    border: 1px black solid;
+    padding: 20px;
+}
+nav {
+	background-color: #E8C66A
+    border: 1px black solid;
+    padding: 20px;
+}
+article {
+	background-color: #FFC675
+    border: 1px black solid;
+    padding: 20px;
+}
+body {
+	text-align: center;
+	background: url("../images/background.jpg");
+	background-size: cover;
+	color: #fff;
+	font-family: Helvetica
+}
+
+h1 {
+	font-size: 55px;
+	font-style: italic;
+	font-weight: bold;
+}
+h2{
+	font-size: 28px;
+	font-family: 'Abel', sans-serif; 
+}
+hr {
+	width: 200px;
+}
+
+a {
+	color: rgb(173,91,217);
+	text-decoration: none;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Abel', sans-serif;
+}
+ul {
+	font-style: italic;
+	font-family: 'Abel', sans-serif; 
+}
+
+h3 {
+	font-family: 'Abel', sans-serif; 
+}
+
