@@ -47,16 +47,14 @@ a {
 	font-weight: bold;
 	font-family: 'Abel', sans-serif;
 }
-ul {
-	font-style: italic;
-	font-family: 'Abel', sans-serif; 
-}
 
 h3 {
 	font-family: 'Abel', sans-serif; 
 }
 
 #works {
+	font-style: italic;
+	font-family: 'Abel', sans-serif; 
 	font-size: 1em;
 	display: inline-block;
 	border: 1em 1em 1em 1em;
